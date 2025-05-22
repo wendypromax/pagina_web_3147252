@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Agendar Cita - Taller Rápido Auto</title>
+ <link rel="stylesheet" href="../_css/style2.css">
+</head>
+<body>
+  <header>
+  <div class="logo-contenedor">
+    <img src="../_img/logo.jpg" alt="Logo Taller" class="logo">
+    <h1>Taller Rápido Auto</h1>
+  </div>
+  <nav>
+    <a href="../index.html">Inicio</a>
+    <a href="servicios.html">Servicios</a>
+    <a href="nosotros.html">Nosotros</a>
+    <a href="citas.html">Agendar Cita</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="ubicacion.html">Ubicación</a>
+  </nav>
+</header>
+  <main>
+    <h2>Agendar una cita</h2>
+    <form action="#" method="post">
+      <label for="nombre">Nombre:</label><br>
+      <input type="text" id="nombre" name="nombre" required><br><br>
+
+      <label for="telefono">Teléfono:</label><br>
+      <input type="tel" id="telefono" name="telefono" required><br><br>
+
+      <label for="fecha">Fecha:</label><br>
+      <input type="date" id="fecha" name="fecha" required><br><br>
+
+      <label for="servicio">Servicio requerido:</label><br>
+      <select id="servicio" name="servicio">
+        <option value="aceite">Cambio de aceite</option>
+        <option value="frenos">Frenos</option>
+        <option value="alineacion">Alineación</option>
+        <option value="diagnostico">Diagnóstico</option>
+      </select><br><br>
+
+      <button type="submit">Enviar</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>© 2025 Taller Rápido Auto</p>
+  </footer>
+</body>
+</html>
