@@ -13,22 +13,21 @@ Sitio web informativo para un taller automotriz de latoneria y pintura, desarrol
 
 ## Estructura
 /PAGINA_WEB_3147252/
+│   index.html
+│   README.md
 │
-├── _css/
-│   └── styles.css
+├───_css
+│       styles.css
 │
-├── _html/
-│   ├── contacto.html
-│   ├── nosotros.html
-│   ├── servicios.html
-│   └── ubicacion.html
+├───_html
+│       contacto.html
+│       nosotros.html
+│       servicios.html
+│       ubicacion.html
 │
-├── _img/
-│   ├── logo.jpg
-│   └── TALLER.jpeg
-│
-├── index.html
-├── README.md
+└───_img
+        logo.jpg
+        TALLER.jpeg
 
     
 
