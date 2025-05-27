@@ -10,10 +10,6 @@ Sitio web informativo para un taller automotriz de latoneria y pintura, desarrol
 - `nosotros.html`: Información sobre la historia del taller y el equipo.
 - `contacto.html`: Formulario para contactar con el taller.
 
-## 🛠️ Tecnologías utilizadas
-
-- HTML5
-- CSS3 (con estilo en to, según diseño del proyecto)
 
 ## Estructura
 /PAGINA_WEB_3147252/
